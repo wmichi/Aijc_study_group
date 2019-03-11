@@ -12,7 +12,7 @@ def parse_args():
   parser = argparse.ArgumentParser()
   parser.add_argument('--modelname', default='DecisionTreeClassifier',help='classification algorithm')
   parser.add_argument('--trainfile', default='../data/basedata/train.csv',help='train data path.')
-  parser.add_argument('--testfile', default='../data/basedata/test.csv',help='train data path.')
+  parser.add_argument('--testfile', default='../data/basedata/test.csv',help='test data path.')
   parser.add_argument('--testsize', type=int, default=0.2 ,help='split test size')
   parser.add_argument('--randomseed', type=int, default=0, help='random seed for train_test_split')
 

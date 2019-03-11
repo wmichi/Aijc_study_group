@@ -3,4 +3,5 @@ data/*/*.csv
 data/*/*.py
 tmp/
 notebook/*.ipynb_checkpoints
+.DS_Store
 __pycache__
