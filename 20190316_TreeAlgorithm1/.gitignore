@@ -2,6 +2,7 @@
 data/*/*.csv
 data/*/*.py
 tmp/
-notebook/*.ipynb_checkpoints
+.ipynb_checkpoints
 .DS_Store
 __pycache__
+*/args_json/2*

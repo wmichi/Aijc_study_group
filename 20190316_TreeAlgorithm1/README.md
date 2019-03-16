@@ -9,5 +9,6 @@
 - data ... データ置き場   
   今回使用するデータはタイタニックです。   
   https://www.kaggle.com/c/titanic   
+- log ... 各種ログ保管場所
 - notebooks ... notebook置き場
 - src ... 実行用スクリプト置き場
