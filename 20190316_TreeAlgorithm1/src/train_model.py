@@ -15,7 +15,10 @@ def parse_args():
   parser.add_argument('--testfile', default='../data/basedata/test.csv',help='test data path.')
   parser.add_argument('--testsize', type=int, default=0.2 ,help='split test size')
   parser.add_argument('--randomseed', type=int, default=0, help='random seed')
-  parser.add_argument('--n_estimators', type=int, default=10, help='number of estimators used for RandomForest or GradientBoosting')
+  parser.add_argument('--learning_rate', type=float, default=0.1, help='random seed')
+  parser.add_argument('--n_estimators', type=int, default=100, help='number of estimators used for RandomForest or GradientBoosting')
+  parser.add_argument('--max_depth', type=int, default=None ,help='max_depth')
+  parser.add_argument('--min_samples_split', type=int, default=2 ,help='split test size')
   parser.add_argument('--oob_score', type=bool, default=False, help='Whethre to use out-of-bag samples to estimate the generalization accuracy')
 
   return parser.parse_args()
@@ -29,6 +32,7 @@ if __name__=='__main__':
   param_filepath = os.path.join('../log/args_json', param_filename)
   with open(param_filepath, 'w') as f:
     json.dump(vars(args), f)
+  print(args)
 
   X_train, X_val, y_train, y_val = importdata(args.trainfile, args.testsize, args.randomseed)
 
