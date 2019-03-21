@@ -7,4 +7,4 @@ AIジョブカレ受講生・卒業生を対象にした勉強会で使用した
   * 日程 : 2019年 3月26日(土) 13:00～17:00
   * 内容 : そもそもツリーアルゴリズムの元である決定木とは？  
   どのパラメーターがどういう働きをしているのか？
-  * 対象分野 : Decision Tree, Rondom Forest, Gradient Boosting
+  * 対象分野 : Decision Tree, Random Forest, Gradient Boosting

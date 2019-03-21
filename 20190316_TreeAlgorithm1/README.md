@@ -2,7 +2,7 @@
 
 イベントページリンク：https://connpass.com/event/121551/    
 資料はこちら   
-  1. 決定木／Random Forest
+  1. [決定木／Random Forest](https://speakerdeck.com/wmichi/shu-shi-toshi-zhuang-karafu-xi-suruturiarugorizumu)
   2. Gradient Boosting
 
 ### 構成
