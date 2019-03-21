@@ -1,9 +1,10 @@
 ## 数式と実装から復習するツリーアルゴリズム
 
 イベントページリンク：https://connpass.com/event/121551/    
-資料はこちら   
+<br>
+資料はこちら
   1. [決定木／Random Forest](https://speakerdeck.com/wmichi/shu-shi-toshi-zhuang-karafu-xi-suruturiarugorizumu)
-  2. Gradient Boosting
+  2. [Gradient Boosting](https://www.slideshare.net/secret/8IeqBz8ngI0K09)
 
 ### 構成
 - data ... データ置き場   
