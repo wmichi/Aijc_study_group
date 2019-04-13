@@ -7,25 +7,7 @@ AIジョブカレ受講生・卒業生を対象にした勉強会で使用した
   * 日程 : 2019年 3月26日(土) 13:00～17:00
   * 内容 : そもそもツリーアルゴリズムの元である決定木とは？  
   どのパラメーターがどういう働きをしているのか？
-<<<<<<< HEAD
-  * 対象分野 : Decision Tree, Random Forest, Gradient Boosting
 
-* [20190413_TreeAlgorithm2](https://github.com/wmichi/Aijc_study_group/tree/master/20190413_TreeAlgorithm2) 
-第一回【AIジョブカレ勉強会】数式と実装から復習するツリーアルゴリズム2（[イベントページ](https://aijc-study.connpass.com/event/123881/)）  
-	* 日程 :    
-	2019年 3月13日(土) 13:00～17:00
-	* 内容 :   
-	XGBoost, LightGBMの仕組み   
-	Bayesian Optimationによるパラメータチューニング   
-	機械学習の解釈可能性
-	* 対象分野 :    
-	XGBoost, LightGBM   
-	Bayesian Optimization, Tree-structured Parzen Estimator   
-	feature importance, Partial Dependence Plot
-
-
-
-=======
   * 対象分野 : Decision Tree, Random Forest, Gradient Boosting
 
 * [20190413_TreeAlgorithm2](https://github.com/wmichi/Aijc_study_group/tree/master/20190413_TreeAlgorithm2)  
@@ -40,4 +22,3 @@ AIジョブカレ受講生・卒業生を対象にした勉強会で使用した
   XGBoost, LightGBM   
   Bayesian Optimization, Tree-structured Parzen Estimator    
   feature importance, Partial Dependence Plot
->>>>>>> dev_190413
