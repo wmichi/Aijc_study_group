@@ -2,6 +2,7 @@
 [こちら](https://drive.google.com/open?id=17GyM6AJ-SkWTPESJBBQncCluaWYaz_Ay)のGoogle Driveにて配布。ファイルはそれぞれ以下の通り。   
   - train.csv: 訓練データ
   - test.csv: テストデータ
+  - submission.csv: テストデータの予測用データ
   - class_ids.csv: StyleIDの対照表
   - recipeData.csv: 元データ（をエンコーディングし直したもの）
 
