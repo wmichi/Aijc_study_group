@@ -4,7 +4,7 @@
   - test.csv: テストデータ
   - class_ids.csv: StyleIDの対照表
   - recipeData.csv: 元データ（をエンコーディングし直したもの）
-
+
 ### データソース
 Brewer's Friend Beer Recipes   
 link: https://www.kaggle.com/jtrofe/beer-recipes   
@@ -12,13 +12,13 @@ link: https://www.kaggle.com/jtrofe/beer-recipes
 
 |Style|StyleId|count|
 |:--|--:|--:|
-|Irish Red Ale        |      92 |      1152 |
-| American Brown Ale   |       6 |      1204 |
-| American Stout       |      12 |     1268 |
-| Imperial IPA         |      86 |     1478 |
-| Blonde Ale           |      30 |     1753 |
-| American Amber Ale   |       4 |     2038 |
-| American Light Lager |       9 |     2277 |
-| Saison               |     134 |     2617 |
-| American Pale Ale    |      10 |     7581 |
 | American IPA         |       7 |     11940 |
+| American Pale Ale    |      10 |     7581 |
+| Saison               |     134 |     2617 |
+| American Light Lager |       9 |     2277 |
+| American Amber Ale   |       4 |     2038 |
+| Blonde Ale           |      30 |     1753 |
+| Imperial IPA         |      86 |     1478 |
+| American Stout       |      12 |     1268 |
+| American Brown Ale   |       6 |      1204 |
+|Irish Red Ale        |      92 |      1152 |
