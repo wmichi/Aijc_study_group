@@ -22,3 +22,16 @@ AIジョブカレ受講生・卒業生を対象にした勉強会で使用した
   XGBoost, LightGBM   
   Bayesian Optimization, Tree-structured Parzen Estimator    
   feature importance, Partial Dependence Plot
+
+
+* [20190518_BasicVisualization](https://github.com/wmichi/Aijc_study_group/tree/master/20190518_BasicVisualization)  
+第三回【AIジョブカレ勉強会】ジョブカレ 春の可視化祭り（[イベントページ](https://aijc-study.connpass.com/event/127904/)）  
+  * 日程 :    
+  2019年 5月18日(土) 13:00～17:20
+  * 内容 :    
+  機械学習の解釈可能性    
+  可視化手法おさらい   
+  モデリングハンズオン  
+  * 対象分野 :     
+  Accumlated Local Effect, LIME   
+  matplotlib, seaborn
